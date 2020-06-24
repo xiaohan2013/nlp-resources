@@ -7,7 +7,7 @@ Task1：Introduction to word vectors
 ### 01_相关工作
 
 NLP一般处理过程为
-![nlp](https://raw.githubusercontent.com/xiaohan2013/nlp-resources/master/cs224n-notes/nlp.png)
+![Image text](https://raw.githubusercontent.com/xiaohan2013/nlp-resources/master/cs224n-notes/nlp.png)
 
 在整个流程中，语言模型的使用决定了特征工程的词的表示和句子的表示方式。
 
