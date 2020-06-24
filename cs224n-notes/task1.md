@@ -33,5 +33,4 @@ NLP一般处理过程为
 
 
 ### 参考文献
-[1]Mikolov T , Chen K , Corrado G , et al. Efficient Estimation of Word Representations in Vector Space[J]. Computer ence, 2013.
-[2]
+[1] Mikolov T , Chen K , Corrado G , et al. Efficient Estimation of Word Representations in Vector Space[J]. Computer ence, 2013.
